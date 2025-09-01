@@ -29,7 +29,7 @@ Perfecto, Giacomo. Aquí tienes los **criterios de evaluación** añadidos al ej
 |----------------------------------|-----------------------------------------------------------------------------|--------|
 | **Aplicación del patrón Builder** | Implementación correcta y coherente del patrón Builder en la entidad `House`. | 30     |
 | **Modularidad y diseño limpio**   | Separación adecuada de responsabilidades, uso de clases bien estructuradas. | 20     |
-| **Cobertura de pruebas ≥ 70%**    | Evidencia de pruebas unitarias con cobertura mínima del 70%.                | 20     |
+| **Cobertura de pruebas ≥ 70%**    | Pruebas unitarias con cobertura mínima del 70%.                | 20     |
 | **Diagrama de clases**            | Claridad, precisión y correspondencia con la implementación.                | 15     |
 | **Presentación y documentación**  | Claridad en README, comentarios útiles en el código, y entrega ordenada.    | 15     |
 
