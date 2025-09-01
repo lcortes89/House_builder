@@ -16,8 +16,24 @@ El objetivo es que el proceso de construcción sea flexible, escalable y desacop
 
 # Entregables
 - Repositorio en GitHub con el código fuente completo.
-- Diagrama de clases que represente la estructura del patrón Builder aplicado a la entidad House.
-- Captura de pantalla de la sección "Test coverage" que demuestre el cumplimiento del requisito mínimo del 70%.
+- Diagrama de clases que represente la estructura del patrón Builder aplicado a la entidad House. (Integrar en el Readme).
+- Captura de pantalla de la sección "Test coverage" que demuestre el cumplimiento del requisito mínimo del 70%. (Integrar en el Readme).
+
+Perfecto, Giacomo. Aquí tienes los **criterios de evaluación** añadidos al ejercicio, para que los estudiantes tengan claro cómo se valorará su trabajo:
+
+---
+
+## Criterios de Evaluación
+
+| Criterio                          | Descripción                                                                 | Puntos |
+|----------------------------------|-----------------------------------------------------------------------------|--------|
+| **Aplicación del patrón Builder** | Implementación correcta y coherente del patrón Builder en la entidad `House`. | 30     |
+| **Modularidad y diseño limpio**   | Separación adecuada de responsabilidades, uso de clases bien estructuradas. | 20     |
+| **Cobertura de pruebas ≥ 70%**    | Evidencia de pruebas unitarias con cobertura mínima del 70%.                | 20     |
+| **Diagrama de clases**            | Claridad, precisión y correspondencia con la implementación.                | 15     |
+| **Presentación y documentación**  | Claridad en README, comentarios útiles en el código, y entrega ordenada.    | 15     |
+
+**Puntaje total: 100 puntos**
 
 -----------
 
