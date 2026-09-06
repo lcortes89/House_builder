@@ -1,4 +1,4 @@
-# ex-java-design_patterns-house_builder
+# House_builder
 Exercise to practice Builder design pattern.
 
 # Instrucciones
@@ -188,8 +188,3 @@ Design-Patterns-Builder/
 Estudiante del bootcamp de desarrollo de Factoría F5
 
 [← Anterior](#-estructura-del-proyecto) • [↑ Índice](#-índice)
-## Ejemplos
-- https://refactoring.guru/es/design-patterns/builder/java/example
-
-## Source
-- https://refactoring.guru/es/design-patterns/builder
